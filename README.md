@@ -61,7 +61,7 @@ You can view the UI/UX design here: [Figma Design - 3D Product Studio](https://w
 
 ## Demo
 
-You can include a link to a live demo or add a GIF/screenshot showing the app in action.
+[https://online-3-d-shoe-design.vercel.app]
 
 ## Customization Ideas
 
